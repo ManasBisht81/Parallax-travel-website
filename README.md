@@ -50,6 +50,20 @@ A visually immersive **parallax travel website** built with vanilla HTML, CSS, J
 
 ---
 
+## 📁 Project Structure
+
+```
+📦 parallax-travel-website
+ ┣ 📂 dist
+ ┃ ┣ 📂 images       # Image assets for destinations and packages
+ ┃ ┣ 📜 index.html   # Main HTML file containing the markup
+ ┃ ┣ 📜 style.css    # Stylesheet for layout and design
+ ┃ ┗ 📜 script.js    # JavaScript for GSAP animations and interactivity
+ ┗ 📜 LICENSE        # MIT License
+```
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
